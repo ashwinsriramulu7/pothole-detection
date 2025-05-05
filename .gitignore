@@ -1,3 +1,8 @@
+best.pt
+pothole_dataset.zip
+pothole_dataset/
+runs/
+yolov8n.pt
 .env
 # Byte-compiled / optimized / DLL files
 __pycache__/
